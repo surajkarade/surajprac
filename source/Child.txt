@@ -1,0 +1,14 @@
+public class Child extends Parent
+{
+public static void main(String[] args)
+{
+public static void foo()
+{
+System.out.println("I am foo in Child");
+}
+public void Bar()
+{
+System.out.println("I am Bar in Child");
+}
+}
+}
